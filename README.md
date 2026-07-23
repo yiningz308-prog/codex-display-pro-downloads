@@ -13,6 +13,7 @@ Codex Display Pro 是一款原生 macOS Codex 桌面助手，把额度、任务�
 - 检测本机代理并修复 Codex 连接，支持 HTTP、Mixed 和 SOCKS5。
 - 激活码授权、设备绑定和 SHA-256 安装包校验。
 - 应用内一键检查更新，自动下载、校验并安装新版本。
+- App 与 Dock 固定使用带恶魔牛角的 Codex 云朵图标。
 
 ## 一键安装
 
@@ -22,6 +23,6 @@ Codex Display Pro 是一款原生 macOS Codex 桌面助手，把额度、任务�
 curl -fsSL https://raw.githubusercontent.com/yiningz308-prog/codex-display-pro-downloads/main/install.sh | bash
 ```
 
-当前版本：**1.9.9**
+当前版本：**2.0.0**
 
 要求：macOS 13 或更高版本、Apple Silicon。
