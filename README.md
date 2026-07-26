@@ -15,6 +15,7 @@ Codex Display Pro 是一款原生 macOS Codex 桌面助手，把额度、任务�
 - 应用内一键检查更新，自动下载、校验并安装新版本。
 - App 与 Dock 固定使用带恶魔牛角的 Codex 云朵图标。
 - 详情页切换黑白模式时，小悬浮窗同步更新主题颜色。
+- 小悬浮窗保留液态玻璃材质，深色与浅色模式都支持背景模糊和半透明效果。
 
 ## 一键安装
 
@@ -24,6 +25,6 @@ Codex Display Pro 是一款原生 macOS Codex 桌面助手，把额度、任务�
 curl -fsSL https://raw.githubusercontent.com/yiningz308-prog/codex-display-pro-downloads/main/install.sh | bash
 ```
 
-当前版本：**2.0.2**
+当前版本：**2.0.3**
 
 要求：macOS 13 或更高版本、Apple Silicon。
