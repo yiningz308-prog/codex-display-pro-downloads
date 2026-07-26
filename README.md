@@ -24,6 +24,6 @@ Codex Display Pro 是一款原生 macOS Codex 桌面助手，把额度、任务�
 curl -fsSL https://raw.githubusercontent.com/yiningz308-prog/codex-display-pro-downloads/main/install.sh | bash
 ```
 
-当前版本：**2.0.1**
+当前版本：**2.0.2**
 
 要求：macOS 13 或更高版本、Apple Silicon。
